@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		841D310520206CC800750462 /* GetOrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 841D310420206CC800750462 /* GetOrderViewController.m */; };
 		847707FB1FFF1CC600A98B3D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 847707FA1FFF1CC600A98B3D /* AppDelegate.m */; };
 		847707FE1FFF1CC600A98B3D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 847707FD1FFF1CC600A98B3D /* ViewController.m */; };
 		847708011FFF1CC600A98B3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 847707FF1FFF1CC600A98B3D /* Main.storyboard */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		841D310320206CC800750462 /* GetOrderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetOrderViewController.h; sourceTree = "<group>"; };
+		841D310420206CC800750462 /* GetOrderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetOrderViewController.m; sourceTree = "<group>"; };
 		847707F61FFF1CC600A98B3D /* iphoneX测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iphoneX测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		847707F91FFF1CC600A98B3D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		847707FA1FFF1CC600A98B3D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -93,6 +96,8 @@
 				8477080A1FFF1CC600A98B3D /* Info.plist */,
 				8477080B1FFF1CC600A98B3D /* main.m */,
 				847708021FFF1CC600A98B3D /* iphoneX__.xcdatamodeld */,
+				841D310320206CC800750462 /* GetOrderViewController.h */,
+				841D310420206CC800750462 /* GetOrderViewController.m */,
 			);
 			path = "iphoneX测试";
 			sourceTree = "<group>";
@@ -211,6 +216,7 @@
 				847707FE1FFF1CC600A98B3D /* ViewController.m in Sources */,
 				847707FB1FFF1CC600A98B3D /* AppDelegate.m in Sources */,
 				8477080C1FFF1CC600A98B3D /* main.m in Sources */,
+				841D310520206CC800750462 /* GetOrderViewController.m in Sources */,
 				847708041FFF1CC600A98B3D /* iphoneX__.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
