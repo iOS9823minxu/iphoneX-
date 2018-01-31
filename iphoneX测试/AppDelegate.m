@@ -23,7 +23,7 @@
     self.window.rootViewController=nav;
     
     
-//    self.window.backgroundColor=[UIColor orangeColor];
+    self.window.backgroundColor=[UIColor orangeColor];
     return YES;
 }
 
