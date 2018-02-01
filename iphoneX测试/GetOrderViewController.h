@@ -9,7 +9,4 @@
 #import <UIKit/UIKit.h>
 
 @interface GetOrderViewController : UIViewController
-
-
-
 @end
