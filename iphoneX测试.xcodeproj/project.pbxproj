@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		718F5D1C20248E73008C0635 /* GetOrderModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 718F5D1B20248E73008C0635 /* GetOrderModel.m */; };
 		841D310520206CC800750462 /* GetOrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 841D310420206CC800750462 /* GetOrderViewController.m */; };
 		847707FB1FFF1CC600A98B3D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 847707FA1FFF1CC600A98B3D /* AppDelegate.m */; };
 		847707FE1FFF1CC600A98B3D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 847707FD1FFF1CC600A98B3D /* ViewController.m */; };
@@ -29,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		718F5D1A20248E73008C0635 /* GetOrderModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetOrderModel.h; sourceTree = "<group>"; };
+		718F5D1B20248E73008C0635 /* GetOrderModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetOrderModel.m; sourceTree = "<group>"; };
 		841D310320206CC800750462 /* GetOrderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetOrderViewController.h; sourceTree = "<group>"; };
 		841D310420206CC800750462 /* GetOrderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetOrderViewController.m; sourceTree = "<group>"; };
 		847707F61FFF1CC600A98B3D /* iphoneX测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iphoneX测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,6 +101,8 @@
 				847708021FFF1CC600A98B3D /* iphoneX__.xcdatamodeld */,
 				841D310320206CC800750462 /* GetOrderViewController.h */,
 				841D310420206CC800750462 /* GetOrderViewController.m */,
+				718F5D1A20248E73008C0635 /* GetOrderModel.h */,
+				718F5D1B20248E73008C0635 /* GetOrderModel.m */,
 			);
 			path = "iphoneX测试";
 			sourceTree = "<group>";
@@ -214,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				847707FE1FFF1CC600A98B3D /* ViewController.m in Sources */,
+				718F5D1C20248E73008C0635 /* GetOrderModel.m in Sources */,
 				847707FB1FFF1CC600A98B3D /* AppDelegate.m in Sources */,
 				8477080C1FFF1CC600A98B3D /* main.m in Sources */,
 				841D310520206CC800750462 /* GetOrderViewController.m in Sources */,

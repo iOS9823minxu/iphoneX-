@@ -22,6 +22,8 @@
     
     self.view.backgroundColor=[UIColor whiteColor];
     
+    NSLog(@"成功了");
+    
     
 }
 
