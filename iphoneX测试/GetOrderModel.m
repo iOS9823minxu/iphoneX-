@@ -10,4 +10,9 @@
 
 @implementation GetOrderModel
 
+
+
++(void)init{
+    
+}
 @end
