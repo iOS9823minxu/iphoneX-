@@ -17,13 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
    
-    self.title=@"进入首页"; self.navigationController.navigationBar.backgroundColor=[UIColor greenColor];
-    
-    
-    self.view.backgroundColor=[UIColor whiteColor];
-    
-    NSLog(@"成功了");
-    
+   
     
 }
 
