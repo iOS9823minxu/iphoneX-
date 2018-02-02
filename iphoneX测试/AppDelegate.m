@@ -22,6 +22,8 @@
     UINavigationController *nav=[[UINavigationController alloc]initWithRootViewController:view];
     
     
+    
+    
     self.window.rootViewController=nav;
     self.window.backgroundColor=[UIColor orangeColor];
     return YES;
