@@ -15,5 +15,6 @@
 +(void)init{
     NSLog(@"下班了哦  ，哈哈");
     NSLog(@"下班真好");
+    
 }
 @end
