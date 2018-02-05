@@ -2,7 +2,7 @@
 //  GetOrderModel.m
 //  iphoneX测试
 //
-//  Created by 徐敏 on 2018/2/2.
+//  Created by sss on 2018/2/2.
 //  Copyright © 2018年 yufu. All rights reserved.
 //
 
@@ -13,6 +13,6 @@
 
 
 +(void)init{
-    
+    NSLog(@"下班了哦  ，哈哈");
 }
 @end
